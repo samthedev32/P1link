@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "zetta")(type "KiCad")(uri "${KIPRJMOD}/zetta.kicad_sym")(options "")(descr ""))
+  (lib (name "nisshinbo")(type "KiCad")(uri "${KIPRJMOD}/nisshinbo.kicad_sym")(options "")(descr ""))
+)
